@@ -1,0 +1,559 @@
+Year,Commodity,Price
+ 86/88,Rice Coarse,6.56
+87/88,Rice Coarse,7
+88/89,Rice Coarse,7.65
+89/90,Rice Coarse,7.73
+90/91,Rice Coarse,7.7
+91/92,Rice Coarse,9.81
+92/93,Rice Coarse,11.41
+93/94,Rice Coarse,11.54
+94/95,Rice Coarse,12.1
+95/96,Rice Coarse,13.99
+96/97,Rice Coarse,14.71
+97/98,Rice Coarse,15.64
+98/99,Rice Coarse,17.42
+99/00,Rice Coarse,20.51
+2000/01,Rice Coarse,17.97
+2001/02,Rice Coarse,17.07
+2002/03,Rice Coarse,17.2
+2003/04,Rice Coarse,17.88
+ 86/88,Raw Rice Medium,7.77
+87/88,Raw Rice Medium,8.63
+88/89,Raw Rice Medium,8.19
+89/90,Raw Rice Medium,9.2
+90/91,Raw Rice Medium,9.09
+91/92,Raw Rice Medium,11.71
+92/93,Raw Rice Medium,13.57
+93/94,Raw Rice Medium,14.09
+94/95,Raw Rice Medium,12.19
+95/96,Raw Rice Medium,16.3
+96/97,Raw Rice Medium,17.3
+97/98,Raw Rice Medium,18
+98/99,Raw Rice Medium,19.49
+99/00,Raw Rice Medium,24.07
+2000/01,Raw Rice Medium,22.23
+2001/02,Raw Rice Medium,21.03
+2002/03,Raw Rice Medium,21.78
+2003/04,Raw Rice Medium,23.48
+ 86/88,Raw Rice Fine,8.25
+87/88,Raw Rice Fine,9.2
+88/89,Raw Rice Fine,10.36
+89/90,Raw Rice Fine,11.03
+90/91,Raw Rice Fine,12.57
+91/92,Raw Rice Fine,14.18
+92/93,Raw Rice Fine,16.57
+93/94,Raw Rice Fine,17.99
+94/95,Raw Rice Fine,19.11
+95/96,Raw Rice Fine,21.09
+96/97,Raw Rice Fine,23.69
+97/98,Raw Rice Fine,24.41
+98/99,Raw Rice Fine,26.71
+99/00,Raw Rice Fine,34.17
+2000/01,Raw Rice Fine,34.54
+2001/02,Raw Rice Fine,33.56
+2002/03,Raw Rice Fine,32.93
+2003/04,Raw Rice Fine,36.02
+ 86/88,Parboild Rice,5.77
+87/88,Parboild Rice,6.9
+88/89,Parboild Rice,7.15
+89/90,Parboild Rice,7.4
+90/91,Parboild Rice,7.39
+91/92,Parboild Rice,9.3
+92/93,Parboild Rice,10.77
+93/94,Parboild Rice,12.01
+94/95,Parboild Rice,12.79
+95/96,Parboild Rice,12.26
+96/97,Parboild Rice,0
+97/98,Parboild Rice,0
+98/99,Parboild Rice,0
+99/00,Parboild Rice,
+2000/01,Parboild Rice,
+2001/02,Parboild Rice,
+2002/03,Parboild Rice,
+2003/04,Parboild Rice,
+ 86/88,Flattened Rice,10.32
+87/88,Flattened Rice,11.71
+88/89,Flattened Rice,9.51
+89/90,Flattened Rice,11.67
+90/91,Flattened Rice,13.18
+91/92,Flattened Rice,14.76
+92/93,Flattened Rice,16.45
+93/94,Flattened Rice,16.9
+94/95,Flattened Rice,18.55
+95/96,Flattened Rice,19.81
+96/97,Flattened Rice,21.42
+97/98,Flattened Rice,21.83
+98/99,Flattened Rice,23.49
+99/00,Flattened Rice,27.23
+2000/01,Flattened Rice,24.13
+2001/02,Flattened Rice,23.97
+2002/03,Flattened Rice,22.53
+2003/04,Flattened Rice,23.99
+ 86/88,Wheat,4.17
+87/88,Wheat,4.87
+88/89,Wheat,5.91
+89/90,Wheat,5.68
+90/91,Wheat,5.67
+91/92,Wheat,7.16
+92/93,Wheat,7.68
+93/94,Wheat,7.46
+94/95,Wheat,8.5
+95/96,Wheat,8.91
+96/97,Wheat,10.75
+97/98,Wheat,10.9
+98/99,Wheat,12.76
+99/00,Wheat,14.6
+2000/01,Wheat,
+2001/02,Wheat,
+2002/03,Wheat,
+2003/04,Wheat,
+ 86/88,Wheat Flour,5.74
+87/88,Wheat Flour,6.33
+88/89,Wheat Flour,7.21
+89/90,Wheat Flour,6.75
+90/91,Wheat Flour,7.27
+91/92,Wheat Flour,9.17
+92/93,Wheat Flour,10.61
+93/94,Wheat Flour,10.09
+94/95,Wheat Flour,11.68
+95/96,Wheat Flour,12.38
+96/97,Wheat Flour,13.6
+97/98,Wheat Flour,14.3
+98/99,Wheat Flour,15.5
+99/00,Wheat Flour,18.23
+2000/01,Wheat Flour,17.71
+2001/02,Wheat Flour,17.05
+2002/03,Wheat Flour,18.34
+2003/04,Wheat Flour,20.73
+ 86/88,Maize,3.79
+87/88,Maize,4.36
+88/89,Maize,4.73
+89/90,Maize,4.81
+90/91,Maize,4.76
+91/92,Maize,6.19
+92/93,Maize,6.96
+93/94,Maize,6.35
+94/95,Maize,7.59
+95/96,Maize,8.44
+96/97,Maize,9.17
+97/98,Maize,9.59
+98/99,Maize,11.49
+99/00,Maize,14.06
+2000/01,Maize,
+2001/02,Maize,
+2002/03,Maize,
+2003/04,Maize,
+ 86/88,Blackgram,12.02
+87/88,Blackgram,13.9
+88/89,Blackgram,16.44
+89/90,Blackgram,18.78
+90/91,Blackgram,20.49
+91/92,Blackgram,21.61
+92/93,Blackgram,23.03
+93/94,Blackgram,21.98
+94/95,Blackgram,29.6
+95/96,Blackgram,40.58
+96/97,Blackgram,41.6
+97/98,Blackgram,38.14
+98/99,Blackgram,40.19
+99/00,Blackgram,44.17
+2000/01,Blackgram,48.24
+2001/02,Blackgram,50.42
+2002/03,Blackgram,48.01
+2003/04,Blackgram,46.37
+ 86/88,Pigeon pea,12.51
+87/88,Pigeon pea,16.54
+88/89,Pigeon pea,19.45
+89/90,Pigeon pea,19.52
+90/91,Pigeon pea,22.28
+91/92,Pigeon pea,27.05
+92/93,Pigeon pea,28.52
+93/94,Pigeon pea,26.48
+94/95,Pigeon pea,30.87
+95/96,Pigeon pea,40.63
+96/97,Pigeon pea,44.21
+97/98,Pigeon pea,40.61
+98/99,Pigeon pea,52.33
+99/00,Pigeon pea,53.88
+2000/01,Pigeon pea,50.43
+2001/02,Pigeon pea,48.9
+2002/03,Pigeon pea,50.9
+2003/04,Pigeon pea,52.46
+ 86/88,Moong Broken,14.73
+87/88,Moong Broken,15.57
+88/89,Moong Broken,21.63
+89/90,Moong Broken,22.4
+90/91,Moong Broken,23.53
+91/92,Moong Broken,24.29
+92/93,Moong Broken,28.02
+93/94,Moong Broken,29.89
+94/95,Moong Broken,31.82
+95/96,Moong Broken,31.13
+96/97,Moong Broken,43.56
+97/98,Moong Broken,45.09
+98/99,Moong Broken,50.03
+99/00,Moong Broken,52.64
+2000/01,Moong Broken,52.51
+2001/02,Moong Broken,56.5
+2002/03,Moong Broken,57.96
+2003/04,Moong Broken,57.89
+ 86/88,Lentil broken,10.67
+87/88,Lentil broken,10.76
+88/89,Lentil broken,14.62
+89/90,Lentil broken,15.39
+90/91,Lentil broken,16.71
+91/92,Lentil broken,20.95
+92/93,Lentil broken,22.28
+93/94,Lentil broken,21.4
+94/95,Lentil broken,24.67
+95/96,Lentil broken,32.71
+96/97,Lentil broken,37.76
+97/98,Lentil broken,34.27
+98/99,Lentil broken,38.3
+99/00,Lentil broken,39.75
+2000/01,Lentil broken,40.04
+2001/02,Lentil broken,40.56
+2002/03,Lentil broken,40.93
+2003/04,Lentil broken,43.04
+ 86/88,Soyabean,8.15
+87/88,Soyabean,9.53
+88/89,Soyabean,11.29
+89/90,Soyabean,13.65
+90/91,Soyabean,13.53
+91/92,Soyabean,13.26
+92/93,Soyabean,15.64
+93/94,Soyabean,15.13
+94/95,Soyabean,18.11
+95/96,Soyabean,19.08
+96/97,Soyabean,20.71
+97/98,Soyabean,23.49
+98/99,Soyabean,25.35
+99/00,Soyabean,25.97
+2000/01,Soyabean,26.67
+2001/02,Soyabean,28.59
+2002/03,Soyabean,30.76
+2003/04,Soyabean,30.99
+ 86/88,Ghee purified,59.91
+87/88,Ghee purified,70.63
+88/89,Ghee purified,78.99
+89/90,Ghee purified,81.74
+90/91,Ghee purified,94.12
+91/92,Ghee purified,114.38
+92/93,Ghee purified,121.12
+93/94,Ghee purified,120.91
+94/95,Ghee purified,128.74
+95/96,Ghee purified,141.03
+96/97,Ghee purified,155.62
+97/98,Ghee purified,171.08
+98/99,Ghee purified,184.62
+99/00,Ghee purified,211.75
+2000/01,Ghee purified,221.75
+2001/02,Ghee purified,214.01
+2002/03,Ghee purified,228.43
+2003/04,Ghee purified,236.47
+ 86/88,Mustard Oil,32.25
+87/88,Mustard Oil,45.54
+88/89,Mustard Oil,44.07
+89/90,Mustard Oil,40.23
+90/91,Mustard Oil,47.99
+91/92,Mustard Oil,61.19
+92/93,Mustard Oil,55.18
+93/94,Mustard Oil,53.55
+94/95,Mustard Oil,56.65
+95/96,Mustard Oil,66.41
+96/97,Mustard Oil,69.44
+97/98,Mustard Oil,69.77
+98/99,Mustard Oil,97.74
+99/00,Mustard Oil,77.83
+2000/01,Mustard Oil,68.12
+2001/02,Mustard Oil,75.4
+2002/03,Mustard Oil,81.59
+2003/04,Mustard Oil,101.14
+ 86/88,Mustard Seed,12.22
+87/88,Mustard Seed,14.98
+88/89,Mustard Seed,13.83
+89/90,Mustard Seed,12.38
+90/91,Mustard Seed,15.39
+91/92,Mustard Seed,21.75
+92/93,Mustard Seed,20.96
+93/94,Mustard Seed,18.93
+94/95,Mustard Seed,0
+95/96,Mustard Seed,25.47
+96/97,Mustard Seed,24.32
+97/98,Mustard Seed,26.99
+98/99,Mustard Seed,36.31
+99/00,Mustard Seed,35.41
+2000/01,Mustard Seed,
+2001/02,Mustard Seed,
+2002/03,Mustard Seed,
+2003/04,Mustard Seed,
+ 86/88,Mutton,40.21
+87/88,Mutton,46.58
+88/89,Mutton,43
+89/90,Mutton,55.5
+90/91,Mutton,66.65
+91/92,Mutton,75.18
+92/93,Mutton,84.12
+93/94,Mutton,89.98
+94/95,Mutton,96.16
+95/96,Mutton,105.17
+96/97,Mutton,120.3
+97/98,Mutton,137.37
+98/99,Mutton,151.4
+99/00,Mutton,158.96
+2000/01,Mutton,167.53
+2001/02,Mutton,177.65
+2002/03,Mutton,185.71
+2003/04,Mutton,194.64
+ 86/88,Chicken,41.98
+87/88,Chicken,48.64
+88/89,Chicken,52.81
+89/90,Chicken,60.54
+90/91,Chicken,66.94
+91/92,Chicken,69.87
+92/93,Chicken,75.48
+93/94,Chicken,84.42
+94/95,Chicken,87.21
+95/96,Chicken,98.83
+96/97,Chicken,113.48
+97/98,Chicken,124.92
+98/99,Chicken,128.34
+99/00,Chicken,135.41
+2000/01,Chicken,139.15
+2001/02,Chicken,133.23
+2002/03,Chicken,135.1
+2003/04,Chicken,135.83
+ 86/88,Buff Meat,17.15
+87/88,Buff Meat,20.47
+88/89,Buff Meat,21.57
+89/90,Buff Meat,24.05
+90/91,Buff Meat,27.36
+91/92,Buff Meat,31.57
+92/93,Buff Meat,34.83
+93/94,Buff Meat,37.19
+94/95,Buff Meat,43.87
+95/96,Buff Meat,49.56
+96/97,Buff Meat,53.12
+97/98,Buff Meat,54.97
+98/99,Buff Meat,63.4
+99/00,Buff Meat,69.45
+2000/01,Buff Meat,73.49
+2001/02,Buff Meat,74.29
+2002/03,Buff Meat,75.94
+2003/04,Buff Meat,82.68
+ 86/88,Pork,21.18
+87/88,Pork,25.83
+88/89,Pork,27.09
+89/90,Pork,28.87
+90/91,Pork,38.76
+91/92,Pork,41.72
+92/93,Pork,45.9
+93/94,Pork,0
+94/95,Pork,0
+95/96,Pork,0
+96/97,Pork,0
+97/98,Pork,65.15
+98/99,Pork,75.13
+99/00,Pork,81.36
+2000/01,Pork,80.31
+2001/02,Pork,82.6
+2002/03,Pork,82.77
+2003/04,Pork,86.87
+ 86/88,Fish Fresh,32.81
+87/88,Fish Fresh,37.86
+88/89,Fish Fresh,41.22
+89/90,Fish Fresh,46.1
+90/91,Fish Fresh,50.86
+91/92,Fish Fresh,57.1
+92/93,Fish Fresh,65.9
+93/94,Fish Fresh,67.95
+94/95,Fish Fresh,67.53
+95/96,Fish Fresh,76.96
+96/97,Fish Fresh,78.28
+97/98,Fish Fresh,83.18
+98/99,Fish Fresh,91.15
+99/00,Fish Fresh,92.77
+2000/01,Fish Fresh,98.89
+2001/02,Fish Fresh,107.03
+2002/03,Fish Fresh,102.67
+2003/04,Fish Fresh,106.19
+ 86/88,Hen Egg,1.53
+87/88,Hen Egg,1.73
+88/89,Hen Egg,1.95
+89/90,Hen Egg,2.24
+90/91,Hen Egg,2.31
+91/92,Hen Egg,2.42
+92/93,Hen Egg,2.63
+93/94,Hen Egg,2.93
+94/95,Hen Egg,3.2
+95/96,Hen Egg,3.53
+96/97,Hen Egg,3.8
+97/98,Hen Egg,3.88
+98/99,Hen Egg,4.16
+99/00,Hen Egg,4.38
+2000/01,Hen Egg,4.49
+2001/02,Hen Egg,4.53
+2002/03,Hen Egg,4.65
+2003/04,Hen Egg,4.66
+ 86/88,Milk,6.31
+87/88,Milk,7.15
+88/89,Milk,7.57
+89/90,Milk,8.64
+90/91,Milk,9.57
+91/92,Milk,11.01
+92/93,Milk,11.47
+93/94,Milk,12.72
+94/95,Milk,13.31
+95/96,Milk,14.89
+96/97,Milk,16.93
+97/98,Milk,17.65
+98/99,Milk,19.34
+99/00,Milk,20.31
+2000/01,Milk,22.08
+2001/02,Milk,21.75
+2002/03,Milk,21.7
+2003/04,Milk,22.43
+ 86/88,Jute,7.13
+87/88,Jute,11.79
+88/89,Jute,0
+89/90,Jute,0
+90/91,Jute,0
+91/92,Jute,0
+92/93,Jute,0
+93/94,Jute,
+94/95,Jute,
+95/96,Jute,
+96/97,Jute,
+97/98,Jute,
+98/99,Jute,
+99/00,Jute,
+2000/01,Jute,
+2001/02,Jute,
+2002/03,Jute,
+2003/04,Jute,
+ 86/88,Tobacco,45.64
+87/88,Tobacco,44.11
+88/89,Tobacco,55.15
+89/90,Tobacco,63.7
+90/91,Tobacco,48.08
+91/92,Tobacco,51.35
+92/93,Tobacco,57.24
+93/94,Tobacco,0
+94/95,Tobacco,0
+95/96,Tobacco,0
+96/97,Tobacco,0
+97/98,Tobacco,0
+98/99,Tobacco,
+99/00,Tobacco,
+2000/01,Tobacco,
+2001/02,Tobacco,
+2002/03,Tobacco,
+2003/04,Tobacco,
+ 86/88,Potato,4.75
+87/88,Potato,4.47
+88/89,Potato,4.68
+89/90,Potato,5.69
+90/91,Potato,5.67
+91/92,Potato,6.28
+92/93,Potato,6.15
+93/94,Potato,7.2
+94/95,Potato,8.16
+95/96,Potato,10.02
+96/97,Potato,10.69
+97/98,Potato,8.62
+98/99,Potato,14.55
+99/00,Potato,12.27
+2000/01,Potato,10.89
+2001/02,Potato,13.31
+2002/03,Potato,12.68
+2003/04,Potato,8.77
+ 86/88,Onion,5.92
+87/88,Onion,8.73
+88/89,Onion,7.92
+89/90,Onion,8.28
+90/91,Onion,10.68
+91/92,Onion,9.52
+92/93,Onion,9.16
+93/94,Onion,13.4
+94/95,Onion,12.93
+95/96,Onion,14.87
+96/97,Onion,13.67
+97/98,Onion,18.01
+98/99,Onion,32.06
+99/00,Onion,22.54
+2000/01,Onion,20.03
+2001/02,Onion,20.31
+2002/03,Onion,18.38
+2003/04,Onion,16.27
+ 86/88,Tomato,8.43
+87/88,Tomato,10.97
+88/89,Tomato,10.5
+89/90,Tomato,11.61
+90/91,Tomato,12.5
+91/92,Tomato,14.25
+92/93,Tomato,14.56
+93/94,Tomato,16.81
+94/95,Tomato,18.74
+95/96,Tomato,22.02
+96/97,Tomato,22.23
+97/98,Tomato,21
+98/99,Tomato,28.59
+99/00,Tomato,24.89
+2000/01,Tomato,25.13
+2001/02,Tomato,25.32
+2002/03,Tomato,24.49
+2003/04,Tomato,25.9
+ 86/88,Radish,3.39
+87/88,Radish,3.97
+88/89,Radish,3.92
+89/90,Radish,4.61
+90/91,Radish,4.59
+91/92,Radish,4.45
+92/93,Radish,4.74
+93/94,Radish,0
+94/95,Radish,0
+95/96,Radish,0
+96/97,Radish,0
+97/98,Radish,0
+98/99,Radish,
+99/00,Radish,
+2000/01,Radish,
+2001/02,Radish,
+2002/03,Radish,
+2003/04,Radish,
+ 86/88,Ginger,8.11
+87/88,Ginger,13.46
+88/89,Ginger,17.22
+89/90,Ginger,15.55
+90/91,Ginger,15.27
+91/92,Ginger,15.3
+92/93,Ginger,16.28
+93/94,Ginger,21.86
+94/95,Ginger,28.72
+95/96,Ginger,30.63
+96/97,Ginger,24.61
+97/98,Ginger,21.99
+98/99,Ginger,28.24
+99/00,Ginger,41.25
+2000/01,Ginger,31.37
+2001/02,Ginger,25.21
+2002/03,Ginger,28.54
+2003/04,Ginger,
+ 86/88,Chilli Dry,27.99
+87/88,Chilli Dry,30.46
+88/89,Chilli Dry,49.42
+89/90,Chilli Dry,48.16
+90/91,Chilli Dry,41.07
+91/92,Chilli Dry,71.1
+92/93,Chilli Dry,81.32
+93/94,Chilli Dry,53.95
+94/95,Chilli Dry,62.32
+95/96,Chilli Dry,90.43
+96/97,Chilli Dry,99.05
+97/98,Chilli Dry,87.11
+98/99,Chilli Dry,104.54
+99/00,Chilli Dry,110.14
+2000/01,Chilli Dry,103.51
+2001/02,Chilli Dry,101.08
+2002/03,Chilli Dry,106.67
+2003/04,Chilli Dry,

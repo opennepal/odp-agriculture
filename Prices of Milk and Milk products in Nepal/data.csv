@@ -1,0 +1,188 @@
+Year, Milk products,Price
+1986/97,Pasteurised Milk,8
+1986/97,Yak Butter,90
+1986/97,Local Cheese,110
+1986/97,Special Curd,10
+1986/97,Kanchan Curd,14
+1986/97,Buff Cheese,
+1986/97,Processed Cheese,
+1986/97,Cheese,
+1986/97,Panir,
+1986/97,Cream,
+1986/97,Ghee,
+1987/88,Pasteurised Milk,8
+1987/88,Yak Butter,90
+1987/88,Local Cheese,110
+1987/88,Special Curd,10
+1987/88,Kanchan Curd,14
+1987/88,Buff Cheese,
+1987/88,Processed Cheese,
+1987/88,Cheese,
+1987/88,Panir,
+1987/88,Cream,
+1987/88,Ghee,
+1988/89,Pasteurised Milk,8
+1988/89,Yak Butter,90
+1988/89,Local Cheese,110
+1988/89,Special Curd,10
+1988/89,Kanchan Curd,14
+1988/89,Buff Cheese,
+1988/89,Processed Cheese,
+1988/89,Cheese,
+1988/89,Panir,
+1988/89,Cream,
+1988/89,Ghee,
+1989/90,Pasteurised Milk,10
+1989/90,Yak Butter,100
+1989/90,Local Cheese,125
+1989/90,Special Curd,13
+1989/90,Kanchan Curd,16
+1989/90,Buff Cheese,
+1989/90,Processed Cheese,
+1989/90,Cheese,
+1989/90,Panir,
+1989/90,Cream,
+1989/90,Ghee,
+1990/91,Pasteurised Milk,10
+1990/91,Yak Butter,100
+1990/91,Local Cheese,140
+1990/91,Special Curd,15
+1990/91,Kanchan Curd,18
+1990/91,Buff Cheese,
+1990/91,Processed Cheese,
+1990/91,Cheese,
+1990/91,Panir,
+1990/91,Cream,
+1990/91,Ghee,
+1992/93,Pasteurised Milk,15
+1992/93,Yak Butter,110
+1992/93,Local Cheese,180
+1992/93,Special Curd,17
+1992/93,Kanchan Curd,20
+1992/93,Buff Cheese,130
+1992/93,Processed Cheese,110
+1992/93,Cheese,120
+1992/93,Panir,120
+1992/93,Cream,75
+1992/93,Ghee,
+1993/94,Pasteurised Milk,15
+1993/94,Yak Butter,120
+1993/94,Local Cheese,200
+1993/94,Special Curd,20
+1993/94,Kanchan Curd,25
+1993/94,Buff Cheese,160
+1993/94,Processed Cheese,150
+1993/94,Cheese,160
+1993/94,Panir,150
+1993/94,Cream,75
+1993/94,Ghee,
+1994/95,Pasteurised Milk,15
+1994/95,Yak Butter,135
+1994/95,Local Cheese,200
+1994/95,Special Curd,20
+1994/95,Kanchan Curd,25
+1994/95,Buff Cheese,170
+1994/95,Processed Cheese,150
+1994/95,Cheese,160
+1994/95,Panir,150
+1994/95,Cream,75
+1994/95,Ghee,
+1995/96,Pasteurised Milk,18
+1995/96,Yak Butter,160
+1995/96,Local Cheese,210
+1995/96,Special Curd,25
+1995/96,Kanchan Curd,30
+1995/96,Buff Cheese,190
+1995/96,Processed Cheese,180
+1995/96,Cheese,220
+1995/96,Panir,180
+1995/96,Cream,100
+1995/96,Ghee,
+1996/97,Pasteurised Milk,18
+1996/97,Yak Butter,160
+1996/97,Local Cheese,250
+1996/97,Special Curd,25
+1996/97,Kanchan Curd,30
+1996/97,Buff Cheese,190
+1996/97,Processed Cheese,180
+1996/97,Cheese,220
+1996/97,Panir,180
+1996/97,Cream,100
+1996/97,Ghee,
+1997/98,Pasteurised Milk,20
+1997/98,Yak Butter,180
+1997/98,Local Cheese,250
+1997/98,Special Curd,30
+1997/98,Kanchan Curd,35
+1997/98,Buff Cheese,220
+1997/98,Processed Cheese,180
+1997/98,Cheese,220
+1997/98,Panir,190
+1997/98,Cream,125
+1997/98,Ghee,
+1998/99,Pasteurised Milk,20
+1998/99,Yak Butter,220
+1998/99,Local Cheese,275
+1998/99,Special Curd,30
+1998/99,Kanchan Curd,35
+1998/99,Buff Cheese,242
+1998/99,Processed Cheese,N.A.
+1998/99,Cheese,242
+1998/99,Panir,210
+1998/99,Cream,140
+1998/99,Ghee,245
+1999/2000,Pasteurised Milk,20
+1999/2000,Yak Butter,220
+1999/2000,Local Cheese,275
+1999/2000,Special Curd,30
+1999/2000,Kanchan Curd,35
+1999/2000,Buff Cheese,242
+1999/2000,Processed Cheese,242
+1999/2000,Cheese,242
+1999/2000,Panir,210
+1999/2000,Cream,140
+1999/2000,Ghee,245
+2000/2001,Pasteurised Milk,22
+2000/2001,Yak Butter,220
+2000/2001,Local Cheese,275
+2000/2001,Special Curd,30
+2000/2001,Kanchan Curd,35
+2000/2001,Buff Cheese,242
+2000/2001,Processed Cheese,242
+2000/2001,Cheese,242
+2000/2001,Panir,210
+2000/2001,Cream,140
+2000/2001,Ghee,210
+2001/2002,Pasteurised Milk,22
+2001/2002,Yak Butter,200
+2001/2002,Local Cheese,275
+2001/2002,Special Curd,30
+2001/2002,Kanchan Curd,35
+2001/2002,Buff Cheese,242
+2001/2002,Processed Cheese,242
+2001/2002,Cheese,242
+2001/2002,Panir,210
+2001/2002,Cream,130
+2001/2002,Ghee,195
+2002/2003,Pasteurised Milk,22
+2002/2003,Yak Butter,200
+2002/2003,Local Cheese,280
+2002/2003,Special Curd,37
+2002/2003,Kanchan Curd,40
+2002/2003,Buff Cheese,250
+2002/2003,Processed Cheese,250
+2002/2003,Cheese,250
+2002/2003,Panir,210
+2002/2003,Cream,130
+2002/2003,Ghee,225
+2003/2004,Pasteurised Milk,22
+2003/2004,Yak Butter,220
+2003/2004,Local Cheese,280
+2003/2004,Special Curd,37
+2003/2004,Kanchan Curd,40
+2003/2004,Buff Cheese,250
+2003/2004,Processed Cheese,250
+2003/2004,Cheese,250
+2003/2004,Panir,210
+2003/2004,Cream,120
+2003/2004,Ghee,230
